@@ -1,6 +1,16 @@
 # hello-world
-Just another hello-world repository!
 
-This document represents short info about this repository!
+ hello_world.c can be compiled using:
+ 
+ 	gcc -o hello_world.c hello_world
+ 	
+ To run compiled program, execute:
+ 
+ 	./hello_world
+ 	
+ Expected output is:
+ 
+ 	# ./hello_world
+ 	Hello World
+ 	#
 
-This is a branch1 README file.
